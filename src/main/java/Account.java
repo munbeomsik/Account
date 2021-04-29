@@ -1,2 +1,2 @@
-public class Account {
+package PACKAGE_NAME;public class Account {
 }
